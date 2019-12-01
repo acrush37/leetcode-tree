@@ -13,6 +13,7 @@ Tree
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Java](src/easy/AverageOfLevelsInBinaryTree.java)|Easy|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Java](src/easy/NaryTreePostorderTraversal.java)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Java](src/easy/NaryTreePreorderTraversal.java)|Easy|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](src/easy/DiameterOfBinaryTree.java)|Easy|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Java](src/easy/MinimumAbsoluteDifferenceInBST.java)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Java](src/easy/SumOfLeftLeaves.java)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](src/easy/InvertBinaryTree.java)|Easy|
