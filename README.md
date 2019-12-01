@@ -9,3 +9,4 @@ Tree
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Java](src/easy/SearchInBinarySearchTree.java)|Easy|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Java](src/easy/NaryTreePostorderTraversal.java)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Java](src/easy/NaryTreePreorderTraversal.java)|Easy|
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Java](src/easy/MinimumAbsoluteDifferenceInBST.java)|Easy|
