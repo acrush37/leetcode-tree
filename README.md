@@ -14,6 +14,7 @@ Tree
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Java](src/easy/SecondMinimumNodeInBinaryTree.java)|Easy|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Java](src/easy/TwoSumIVInputIsBST.java)|Easy|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Java](src/easy/AverageOfLevelsInBinaryTree.java)|Easy|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Java](src/easy/MergeTwoBinaryTrees.java)|Easy|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Java](src/easy/NaryTreePostorderTraversal.java)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Java](src/easy/NaryTreePreorderTraversal.java)|Easy|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Java](src/easy/SubtreeOfAnotherTree.java)|Easy|
