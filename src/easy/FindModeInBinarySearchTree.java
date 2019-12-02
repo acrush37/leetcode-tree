@@ -41,19 +41,20 @@ public class FindModeInBinarySearchTree {
         dfs(root.left);
         int n = list.size() - 1;
 
-        if (n < 0) {
-            last = current = 1;
+        if (current == 0) {
+            current = 1;
             list.add(root.val);
         } else if (root.val == list.get(n)) current++;
         else {
-            if (current > last) {
+            if (current < last) list.remove(n);
+            else if (current > last) {
                 int x = list.get(n);
                 list.clear();
                 list.add(x);
-            } else if (current == last) list.add(root.val);
-            else list.remove(n);
+            }
 
-            last = current;
+            list.add(root.val);
+            last = Math.max(last, current);
             current = 1;
         }
 
