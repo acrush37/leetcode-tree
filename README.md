@@ -12,6 +12,7 @@ Tree
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Java](src/easy/SearchInBinarySearchTree.java)|Easy|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Java](src/easy/LongestUnivaluePath.java)|Easy|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Java](src/easy/SecondMinimumNodeInBinaryTree.java)|Easy|
+|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Java](src/easy/TrimBinarySearchTree.java)|Easy|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Java](src/easy/TwoSumIVInputIsBST.java)|Easy|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Java](src/easy/AverageOfLevelsInBinaryTree.java)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Java](src/easy/MergeTwoBinaryTrees.java)|Easy|
