@@ -22,4 +22,5 @@ Tree
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Java](src/easy/MinimumAbsoluteDifferenceInBST.java)|Easy|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Java](src/easy/FindModeInBinarySearchTree.java)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Java](src/easy/SumOfLeftLeaves.java)|Easy|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Java](src/easy/LowestCommonAncestorOfBinarySearchTree.java)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](src/easy/InvertBinaryTree.java)|Easy|
