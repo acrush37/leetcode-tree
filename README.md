@@ -21,6 +21,7 @@ Tree
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Java](src/easy/SubtreeOfAnotherTree.java)|Easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Java](src/easy/BinaryTreeTilt.java)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](src/easy/DiameterOfBinaryTree.java)|Easy|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Java](src/easy/ConvertBSTToGreaterTree.java)|Easy|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Java](src/easy/MinimumAbsoluteDifferenceInBST.java)|Easy|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Java](src/easy/FindModeInBinarySearchTree.java)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](src/easy/PathSumIII.java)|Easy|
