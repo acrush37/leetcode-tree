@@ -18,5 +18,6 @@ Tree
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Java](src/easy/SubtreeOfAnotherTree.java)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](src/easy/DiameterOfBinaryTree.java)|Easy|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Java](src/easy/MinimumAbsoluteDifferenceInBST.java)|Easy|
+|501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Java](src/easy/FindModeInBinarySearchTree.java)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Java](src/easy/SumOfLeftLeaves.java)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](src/easy/InvertBinaryTree.java)|Easy|
