@@ -4,6 +4,7 @@ Tree
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](src/hard/BinaryTreePostorderTraversal.java)|Hard|
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Java](src/medium/InsertIntoBinarySearchTree.java)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](src/medium/BinaryTreePreorderTraversal.java)|Medium|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Java](src/easy/SumOfRootToLeafBinaryNumbers.java)|Easy|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Java](src/easy/UnivaluedBinaryTree.java)|Easy|
