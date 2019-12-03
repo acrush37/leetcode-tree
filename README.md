@@ -5,6 +5,7 @@ Tree
 |---| ----- | -------- | ---------- |
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](src/hard/BinaryTreePostorderTraversal.java)|Hard|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Java](src/medium/ConstructBinarySearchTreeFromPreorderTraversal.java)|Medium|
+|889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Java](src/medium/ConstructBinaryTreeFromPreorderAndPostorderTraversal.java)|Medium|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Java](src/medium/BinaryTreePruning.java)|Medium|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Java](src/medium/InsertIntoBinarySearchTree.java)|Medium|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Java](src/medium/FindDuplicateSubtrees.java)|Medium|
