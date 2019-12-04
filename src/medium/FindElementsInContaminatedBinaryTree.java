@@ -20,8 +20,9 @@ public class FindElementsInContaminatedBinaryTree {
 
     public static void main(String... args) {
 
-        FindElementsInContaminatedBinaryTree findElementsInContaminatedBinaryTree = new FindElementsInContaminatedBinaryTree();
-        System.out.println(findElementsInContaminatedBinaryTree);
+        TreeNode root = new TreeNode(-1);
+        FindElementsInContaminatedBinaryTree findElementsInContaminatedBinaryTree = new FindElementsInContaminatedBinaryTree(root);
+        System.out.println(findElementsInContaminatedBinaryTree.find(1));
     }
 
     static class TreeNode {
