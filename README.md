@@ -14,6 +14,7 @@ Tree
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Java](src/medium/FindDuplicateSubtrees.java)|Medium|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Java](src/medium/DeleteNodeInBST.java)|Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Java](src/medium/SerializeAndDeserializeBST.java)|Medium|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Java](src/medium/LowestCommonAncestorOfBinaryTree.java)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Java](src/medium/KthSmallestElementInBST.java)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](src/medium/BinaryTreePreorderTraversal.java)|Medium|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Java](src/easy/SumOfRootToLeafBinaryNumbers.java)|Easy|
