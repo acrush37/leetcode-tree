@@ -6,6 +6,7 @@ Tree
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](src/hard/BinaryTreePostorderTraversal.java)|Hard|
 |1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Java](src/medium/FindElementsInContaminatedBinaryTree.java)|Medium|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Java](src/medium/ConstructBinarySearchTreeFromPreorderTraversal.java)|Medium|
+|998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Java](src/medium/MaximumBinaryTreeII.java)|Medium|
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Java](src/medium/CheckCompletenessOfBinaryTree.java)|Medium|
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Java](src/medium/FlipEquivalentBinaryTrees.java)|Medium|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[Java](src/medium/AllPossibleFullBinaryTrees.java)|Medium|
