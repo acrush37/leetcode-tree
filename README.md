@@ -23,6 +23,7 @@ Tree
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Java](src/medium/CountCompleteTreeNodes.java)|Medium|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Java](src/medium/BinarySearchTreeIterator.java)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](src/medium/BinaryTreePreorderTraversal.java)|Medium|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Java](src/medium/UniqueBinarySearchTrees.java)|Medium|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Java](src/easy/SumOfRootToLeafBinaryNumbers.java)|Easy|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Java](src/easy/UnivaluedBinaryTree.java)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Java](src/easy/RangeSumOfBST.java)|Easy|
