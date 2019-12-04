@@ -15,6 +15,7 @@ Tree
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Java](src/medium/BinaryTreePruning.java)|Medium|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Java](src/medium/InsertIntoBinarySearchTree.java)|Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Java](src/medium/MaximumBinaryTree.java)|Medium|
+|662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Java](src/medium/MaximumWidthOfBinaryTree.java)|Medium|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Java](src/medium/FindDuplicateSubtrees.java)|Medium|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[Java](src/medium/MostFrequentSubtreeSum.java)|Medium|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Java](src/medium/DeleteNodeInBST.java)|Medium|
