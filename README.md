@@ -3,6 +3,7 @@ Tree
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Java](src/hard/RedundantConnectionII.java)|Hard|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Java](src/hard/SerializeAndDeserializeBinaryTree.java)|Hard|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](src/hard/BinaryTreePostorderTraversal.java)|Hard|
 |1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Java](src/medium/FindElementsInContaminatedBinaryTree.java)|Medium|
