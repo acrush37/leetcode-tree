@@ -3,6 +3,7 @@ Tree
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[Java](src/hard/SumOfDistancesInTree.java)|Hard|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Java](src/hard/RedundantConnectionII.java)|Hard|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Java](src/hard/SerializeAndDeserializeBinaryTree.java)|Hard|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](src/hard/BinaryTreePostorderTraversal.java)|Hard|
