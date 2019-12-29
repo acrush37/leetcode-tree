@@ -8,6 +8,7 @@ Tree
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Java](src/hard/SerializeAndDeserializeBinaryTree.java)|Hard|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](src/hard/BinaryTreePostorderTraversal.java)|Hard|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Java](src/hard/BinaryTreeMaximumPathSum.java)|Hard|
+|1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Java](src/medium/DeepestLeavesSum.java)|Medium|
 |1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Java](src/medium/FindElementsInContaminatedBinaryTree.java)|Medium|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Java](src/medium/ConstructBinarySearchTreeFromPreorderTraversal.java)|Medium|
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Java](src/medium/MaximumBinaryTreeII.java)|Medium|
