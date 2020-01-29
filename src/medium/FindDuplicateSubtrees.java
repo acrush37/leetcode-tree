@@ -49,7 +49,7 @@ public class FindDuplicateSubtrees {
     public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
 
         if (root == null) return Collections.EMPTY_LIST;
-        Queue<TreeNode> q = new LinkedList<>();
+        Queue<TreeNode> q = new ArrayDeque<>();
         q.offer(root);
 
         while (!q.isEmpty()) {

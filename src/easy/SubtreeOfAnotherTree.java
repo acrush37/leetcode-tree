@@ -1,6 +1,6 @@
 package easy;
 
-import java.util.LinkedList;
+import java.util.ArrayDeque;
 import java.util.Queue;
 
 /*
@@ -42,7 +42,7 @@ public class SubtreeOfAnotherTree {
 
     public boolean isSubtree(TreeNode s, TreeNode t) {
 
-        Queue<TreeNode> q = new LinkedList<>();
+        Queue<TreeNode> q = new ArrayDeque<>();
         q.offer(s);
 
         while (!q.isEmpty()) {

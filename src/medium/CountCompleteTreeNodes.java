@@ -1,6 +1,6 @@
 package medium;
 
-import java.util.LinkedList;
+import java.util.ArrayDeque;
 import java.util.Queue;
 
 /*
@@ -32,7 +32,7 @@ public class CountCompleteTreeNodes {
 
         if (root == null) return 0;
         int result = 0;
-        Queue<TreeNode> q = new LinkedList<>();
+        Queue<TreeNode> q = new ArrayDeque<>();
         q.offer(root);
 
         while (!q.isEmpty()) {

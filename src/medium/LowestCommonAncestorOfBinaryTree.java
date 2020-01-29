@@ -26,7 +26,7 @@ public class LowestCommonAncestorOfBinaryTree {
         if (root.val == p.val || root.val == q.val) return root;
         int count = 0;
         Map<TreeNode, TreeNode> f = new HashMap<>();
-        Queue<TreeNode> queue = new LinkedList<>();
+        Queue<TreeNode> queue = new ArrayDeque<>();
         queue.offer(root);
 
         while (!queue.isEmpty()) {

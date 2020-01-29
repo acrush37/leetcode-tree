@@ -1,6 +1,6 @@
 package medium;
 
-import java.util.LinkedList;
+import java.util.ArrayDeque;
 import java.util.Queue;
 
 /*
@@ -49,7 +49,7 @@ public class SerializeAndDeserializeBST {
         String[] nodes = data.split(",");
         int n = nodes.length;
         if (n == 2) return null;
-        Queue<TreeNode> q = new LinkedList<>();
+        Queue<TreeNode> q = new ArrayDeque<>();
 
         for (int i = 1; i < n; i++)
             q.offer("*".equals(nodes[i]) ? null : new TreeNode(Integer.parseInt(nodes[i])));

@@ -1,6 +1,6 @@
 package medium;
 
-import java.util.LinkedList;
+import java.util.ArrayDeque;
 import java.util.Queue;
 
 /*
@@ -31,7 +31,7 @@ public class CheckCompletenessOfBinaryTree {
 
         int[] f = new int[100];
         boolean[] t = new boolean[100];
-        Queue<Object[]> q = new LinkedList<>();
+        Queue<Object[]> q = new ArrayDeque<>();
         q.offer(new Object[]{root, 0});
 
         while (!q.isEmpty()) {

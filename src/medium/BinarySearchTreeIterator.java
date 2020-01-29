@@ -1,6 +1,6 @@
 package medium;
 
-import java.util.LinkedList;
+import java.util.ArrayDeque;
 import java.util.Queue;
 
 /*
@@ -11,7 +11,7 @@ import java.util.Queue;
  */
 public class BinarySearchTreeIterator {
 
-    private Queue<Integer> q = new LinkedList<>();
+    private Queue<Integer> q = new ArrayDeque<>();
 
     public static void main(String... args) {
 
