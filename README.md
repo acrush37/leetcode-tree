@@ -8,6 +8,7 @@ Tree
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Java](src/hard/SerializeAndDeserializeBinaryTree.java)|Hard|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](src/hard/BinaryTreePostorderTraversal.java)|Hard|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Java](src/hard/BinaryTreeMaximumPathSum.java)|Hard|
+|1343|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[Java](src/medium/MaximumProductOfSplittedTree.java)|Medium|
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Java](src/medium/DeleteLeavesWithGivenValue.java)|Medium|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Java](src/medium/DeepestLeavesSum.java)|Medium|
 |1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Java](src/medium/FindElementsInContaminatedBinaryTree.java)|Medium|
