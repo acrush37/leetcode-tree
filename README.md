@@ -17,6 +17,7 @@ Tree
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Java](src/medium/MaximumBinaryTreeII.java)|Medium|
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Java](src/medium/CheckCompletenessOfBinaryTree.java)|Medium|
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Java](src/medium/FlipEquivalentBinaryTrees.java)|Medium|
+|919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)|[Java](src/medium/CompleteBinaryTreeInserter.java)|Medium|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[Java](src/medium/AllPossibleFullBinaryTrees.java)|Medium|
 |889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Java](src/medium/ConstructBinaryTreeFromPreorderAndPostorderTraversal.java)|Medium|
 |865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Java](src/medium/SmallestSubtreeWithAllDeepestNodes.java)|Medium|
