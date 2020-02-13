@@ -15,6 +15,7 @@ Tree
 |1104|[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)|[Java](src/medium/ZigzagLabelledBinaryTree.java)|Medium|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Java](src/medium/ConstructBinarySearchTreeFromPreorderTraversal.java)|Medium|
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Java](src/medium/MaximumBinaryTreeII.java)|Medium|
+|979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Java](src/medium/DistributeCoinsInBinaryTree.java)|Medium|
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Java](src/medium/CheckCompletenessOfBinaryTree.java)|Medium|
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Java](src/medium/FlipEquivalentBinaryTrees.java)|Medium|
 |919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)|[Java](src/medium/CompleteBinaryTreeInserter.java)|Medium|
